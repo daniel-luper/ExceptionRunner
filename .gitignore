@@ -3,3 +3,5 @@
 /mvn-local
 /.settings/
 logger.log
+/.idea
+ExceptionTester.iml
